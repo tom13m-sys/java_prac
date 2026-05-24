@@ -1,4 +1,4 @@
-package my.example.prac1;
+package my.example.prac1.Enums;
 
 
 public enum EntityType {

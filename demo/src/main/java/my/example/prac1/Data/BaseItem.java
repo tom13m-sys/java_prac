@@ -1,4 +1,5 @@
-package my.example.prac1;
+package my.example.prac1.Data;
+
 
 public class BaseItem {
     

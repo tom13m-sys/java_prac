@@ -1,4 +1,9 @@
-package my.example.prac1;
+package my.example.prac1.Factory;
+
+import my.example.prac1.Data.BaseItem;
+import my.example.prac1.Data.Book;
+import my.example.prac1.Data.Client;
+import my.example.prac1.Enums.EntityType;
 
 public class EntityFactory {
 
